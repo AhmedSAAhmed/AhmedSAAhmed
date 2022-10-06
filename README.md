@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedsaahmed" alt="ahmedsaahmed" /></a> </p>
 
-- 🤝 I’m looking for help with **Data analyst projects, Data viz, Crteating new initiatives using data to solve the business problems**
+- 🤝 I’m looking for help with **Data analyst projects, Data viz, Creating new initiatives using data to solve the business problems**
 
 - 📝 I regularly write articles on [https://zepanalytics.com/](https://zepanalytics.com/)
 
