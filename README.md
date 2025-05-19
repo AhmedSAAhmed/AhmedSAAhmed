@@ -7,9 +7,9 @@
 
 - 🤝 I’m looking for help with **Data analyst projects, Data viz, Creating new initiatives using data to solve the business problems**
 
-- 📝 I regularly write articles on [(https://www.salamaahmed.com/home)(https://www.salamaahmed.com/blog)]
+- 📝 I regularly write articles on **https://www.salamaahmed.com/home)(https://www.salamaahmed.com/blog**
 
-- 📫 How to reach me **Ahmedsalamaq@gmail.com**
+- 📫 How to reach me **ahmedsalamaq@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
