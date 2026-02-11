@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedsaahmed" alt="ahmedsaahmed" /></a> </p>
 
-- 🤝 I’m looking for help with **Data analyst projects, Data viz, Creating new initiatives using data to solve the business problems**
-
 - 📝 I regularly write articles on **[https://www.salamaahmed.com/blog](https://www.salamaahmed.com/resources_1/blog)**
 
 - 📫 How to reach me **ahmedsalamaq@gmail.com**
