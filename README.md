@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on **[https://www.salamaahmed.com/blog](https://www.salamaahmed.com/resources_1/blog)**
 
-- 📫 How to reach me **ahmedsalamaq@gmail.com**
+- 📫 How to reach me **hello@ahmedsalama.co**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
