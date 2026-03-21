@@ -13,7 +13,7 @@
     <a href="https://www.hackerrank.com/ahmedsalamaq" target="_blank">
       <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
     </a>
-    <a href="https://www.salamaahmed.com/resources_1/blog" target="_blank">
+    <a href="https://www.ahmadsalama.co" target="_blank">
       <img src="https://img.shields.io/badge/Read_My_Blog-000000?style=for-the-badge&logo=Hashnode&logoColor=white" alt="Blog" />
     </a>
   </p>
@@ -29,7 +29,7 @@
 
 - 🔭 **Currently engineering:** An AI video interviewer SaaS application (Arabic & English).
 - ⚙️ **Expertise:** Machine Learning, Prompt Engineering, and building complex automation pipelines as an n8n Certified Developer.
-- 📝 **Writing:** I regularly share insights on AI and automation on my [personal blog](https://www.salamaahmed.com/resources_1/blog).
+- 📝 **Writing:** I regularly share insights on AI and automation on my [personal blog](https://www.ahmadsalama.co).
 - 📫 **How to reach me:** [hello@ahmedsalama.co](mailto:hello@ahmedsalama.co)
 
 ---
