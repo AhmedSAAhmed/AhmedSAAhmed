@@ -28,7 +28,7 @@
 ### 🚀 About Me
 
 - 🔭 **Currently engineering:** An AI video interviewer SaaS application (Arabic & English) and autonomous AI Agent workflows (like AI Sales Coaches).
-- ⚙️ **Expertise:** AI Engineering, Supervised & Unsupervised Machine Learning, Advanced Prompt Engineering, and building complex automation pipelines as an n8n Certified Developer.
+- ⚙️ **Expertise:** AI Engineering, Supervised & Unsupervised Machine Learning, Advanced Prompt Engineering, and building complex automation pipelines.
 - 💻 **AI Stack:** Leveraging Claude Code, cutting-edge LLMs, and modern ML frameworks to architect intelligent solutions and comprehensive training curricula.
 - 📝 **Writing:** I regularly share insights on AI development and automation on my [personal blog](https://www.ahmedsalama.co).
 - 📫 **How to reach me:** [hello@ahmedsalama.co](mailto:hello@ahmedsalama.co)
@@ -68,10 +68,22 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+</p>
+
 ---
 
 ### 📊 GitHub Analytics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedsaahmed&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="150" alt="Ahmed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaahmed&layout=compact&theme=radical&hide_border=true" height="150" alt="Ahmed's Top Languages" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedsaahmed&theme=radical&hide_border=true" alt="Ahmed's Contribution Graph" />
+</div>
+<br/>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsaahmed&theme=radical&hide_border=true" alt="ahmedsaahmed GitHub Streak" />
 </div>
