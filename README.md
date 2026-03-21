@@ -37,10 +37,12 @@
 
 ### 🛠️ Languages & Tools
 
-**Generative AI & LLMs** <p align="left">
+**Generative AI & Automations** <p align="left">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/n8n_Automation-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <a href="https://n8n.io/creators/ahmedsalama/" target="_blank">
+    <img src="https://img.shields.io/badge/Certified_n8n_Creator_and_Developer-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Certified Creator" />
+  </a>
 </p>
 
 **Machine Learning & Data Science** <p align="left">
