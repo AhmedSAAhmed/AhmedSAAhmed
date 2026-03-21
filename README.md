@@ -13,7 +13,7 @@
     <a href="https://www.hackerrank.com/ahmedsalamaq" target="_blank">
       <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
     </a>
-    <a href="https://www.ahmadsalama.co" target="_blank">
+    <a href="https://www.ahmedsalama.co" target="_blank">
       <img src="https://img.shields.io/badge/Read_My_Blog-000000?style=for-the-badge&logo=Hashnode&logoColor=white" alt="Blog" />
     </a>
   </p>
