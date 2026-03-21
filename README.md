@@ -27,7 +27,7 @@
 
 ### 🚀 About Me
 
-- 🔭 **Currently engineering:** An AI video interviewer SaaS application (Arabic & English) and advanced n8n workflow templates for AI Sales Coaches.
+- 🔭 **Currently engineering:** An AI video interviewer SaaS application (Arabic & English).
 - ⚙️ **Expertise:** Machine Learning, Prompt Engineering, and building complex automation pipelines as an n8n Certified Developer.
 - 📝 **Writing:** I regularly share insights on AI and automation on my [personal blog](https://www.salamaahmed.com/resources_1/blog).
 - 📫 **How to reach me:** [hello@ahmedsalama.co](mailto:hello@ahmedsalama.co)
