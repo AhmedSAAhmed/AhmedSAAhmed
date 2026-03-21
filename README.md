@@ -29,7 +29,7 @@
 
 - 🔭 **Currently engineering:** An AI video interviewer SaaS application (Arabic & English).
 - ⚙️ **Expertise:** Machine Learning, Prompt Engineering, and building complex automation pipelines as an n8n Certified Developer.
-- 📝 **Writing:** I regularly share insights on AI and automation on my [personal blog](https://www.ahmadsalama.co).
+- 📝 **Writing:** I regularly share insights on AI and automation on my [personal blog](https://www.ahmedsalama.co).
 - 📫 **How to reach me:** [hello@ahmedsalama.co](mailto:hello@ahmedsalama.co)
 
 ---
