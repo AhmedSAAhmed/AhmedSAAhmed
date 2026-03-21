@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Ahmed Salama</h1>
-  <h3>Seasoned AI Automation Developer & Architect</h3>
-  <p>Building intelligent workflows, scalable AI solutions, and seamless automations.</p>
+  <h3>Seasoned AI Engineer & Automation Architect</h3>
+  <p>Building intelligent agents, scalable machine learning models, and seamless automations.</p>
 
   <p>
     <a href="https://linkedin.com/in/ahmedsaahmed" target="_blank">
@@ -27,18 +27,27 @@
 
 ### 🚀 About Me
 
-- 🔭 **Currently engineering:** An AI video interviewer SaaS application (Arabic & English).
-- ⚙️ **Expertise:** Machine Learning, Prompt Engineering, and building complex automation pipelines as an n8n Certified Developer.
-- 📝 **Writing:** I regularly share insights on AI and automation on my [personal blog](https://www.ahmedsalama.co).
+- 🔭 **Currently engineering:** An AI video interviewer SaaS application (Arabic & English) and autonomous AI Agent workflows (like AI Sales Coaches).
+- ⚙️ **Expertise:** AI Engineering, Supervised & Unsupervised Machine Learning, Advanced Prompt Engineering, and building complex automation pipelines as an n8n Certified Developer.
+- 💻 **AI Stack:** Leveraging Claude Code, cutting-edge LLMs, and modern ML frameworks to architect intelligent solutions and comprehensive training curricula.
+- 📝 **Writing:** I regularly share insights on AI development and automation on my [personal blog](https://www.ahmedsalama.co).
 - 📫 **How to reach me:** [hello@ahmedsalama.co](mailto:hello@ahmedsalama.co)
 
 ---
 
 ### 🛠️ Languages & Tools
 
-**AI, Data Science & Analytics** <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+**Generative AI & LLMs** <p align="left">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/n8n_Automation-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+</p>
+
+**Machine Learning & Data Science** <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
 </p>
