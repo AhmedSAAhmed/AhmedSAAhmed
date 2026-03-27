@@ -72,9 +72,6 @@
 ---
 
 ### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedsaahmed&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="150" alt="Ahmed's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaahmed&layout=compact&theme=radical&hide_border=true" height="150" alt="Ahmed's Top Languages" />
 </div>
 <br/>
